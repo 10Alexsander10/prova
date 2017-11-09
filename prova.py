@@ -49,5 +49,5 @@ def search(url, keyword, depth):
 
 
 if __name__ == '__main__':
-    #get_data()
-    test()
+    get_data()
+    #test()
